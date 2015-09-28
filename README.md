@@ -1,5 +1,7 @@
 # Game Plan
 
+This game plan is what anyone anywhere can do to begin seceding into the cloud. It would involve a simple step by step process anyone can utilize to begin weaning themselves off of dependence upon current Nation-states. It's use? It begins the movement toward bitnation and away from current structures.
+
 Internationalizing / decentralizing assets (don't keep all your wealth in one jurisdiction / industry / currency), 
 becoming anonymous (our platform will allow pseudonymous IDs so users don't need to fear government retaliation), 
 and start using as many as possible crypto alternatives to the system in power (which not only includes government 

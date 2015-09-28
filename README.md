@@ -1,4 +1,4 @@
-Strategic-Map - Game Plan
+# Game Plan
 
 Internationalizing / decentralizing assets (don't keep all your wealth in one jurisdiction / industry / currency), 
 becoming anonymous (our platform will allow pseudonymous IDs so users don't need to fear government retaliation), 
